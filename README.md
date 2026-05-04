@@ -17,21 +17,21 @@ Core theme: when the detector changes, the lens merit function must change with 
 
 ### LinkedIn posts
 
-| Doc | Title | date | 
-|-----|-------|----------------|
-| L1 | What is the real key to physical AI_An event-driven camera | 2026/04/25 |
-| L2 | From stationary to event-driven, from static to dynamical, from classical to quantum | 2026/04/27|
-| L3 |  | | 
+| Doc | Title | Date | Supplement |
+|-----|-------|----------------|----------------|
+| L1 | What is the real key to physical AI_An event-driven camera | 2026/04/25 | None |
+| L2 | From stationary to event-driven, from static to dynamical, from classical to quantum | 2026/04/27| D1_From Strehl to Kullback–Leibler_v8|
+| L3 | Why do we need Strehl → Kullback–Leibler as a working designer’s tool for the event-driven world — from classical to quantum? | 2026/05/04|  S1_Strehl_to_KL_engineering_seminar_deck|
 
 ### Technical documents
 
-| Doc | Title | Version | Status |
+| Doc | Title | Version | Section/Appendix |
 |-----|-------|----------------|----------|
 | D1 |From Strehl to Kullback–Leibler_v8 | v8 | Section: 9; Appendex: 3 |
 | D2 |From Strehl to Kullback–Leibler_V11 | v11 | Section: 10; Appendex: 6 |
 
 ### PPT-like slides
-| Doc | Title | base materials | 
+| Doc | Title | Base materials | 
 |-----|-----------------|----------------|
 | S1 | Strehl_to_KL_engineering_seminar_deck |D2_From Strehl to Kullback–Leibler_V11|
 
